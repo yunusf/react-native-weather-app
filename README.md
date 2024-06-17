@@ -1,13 +1,11 @@
 # Weather App
 
-<!-- **Weather App** is a mobile application that functions as your reminder note -->
+**Weather App** is a mobile application that useds for find the weather of a city
 
 >**Note**: This Application is still in the development stage
 
-<!-- ## Feature
-- add new note
-- update note
-- delte note -->
+## Feature
+search weather of city
 
 ## Technology
 - react
